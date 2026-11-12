@@ -55,11 +55,6 @@
     <lastmod>2022-12-09T19:53:33+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/math/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/es/blogs/math/"
                 />
@@ -153,11 +148,6 @@
     <lastmod>2021-04-03T23:29:21+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/es/blogs/markdown-syntax/"
                 />
@@ -169,11 +159,6 @@
   </url><url>
     <loc>http://localhost:1313/es/blogs/emoji-support/</loc>
     <lastmod>2021-04-03T22:53:58+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/emoji-support/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -202,11 +187,6 @@
     <lastmod>2021-04-03T22:41:10+05:30</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="es"
                 href="http://localhost:1313/es/blogs/placeholder-text/"
                 />
@@ -231,11 +211,6 @@
   </url><url>
     <loc>http://localhost:1313/es/blogs/rich-content/</loc>
     <lastmod>2021-04-03T19:53:33+05:30</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/blogs/rich-content/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
